@@ -25,4 +25,5 @@ The main goal of this project will be to identify and prevent unauthorized or fr
 The final model achieved the following results:
 
 **Accuracy on Training Set:** 82.0%
+
 **Accuracy on Testing Set:** 80.0%
